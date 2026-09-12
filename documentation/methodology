@@ -1,0 +1,39 @@
+# Methodology
+
+## 1. Data Collection
+
+Four datasets were collected containing information about Australian seafood production, commodity values, jurisdictions, and industry sectors.
+
+## 2. Data Cleaning
+
+The datasets were inspected and prepared before being imported into Tableau. Unnecessary fields were removed, unclear column names were renamed, and missing or inconsistent values were checked.
+
+## 3. Data Preparation
+
+The data was filtered to focus on Australia and relevant financial years. Fields were organised into appropriate categorical, numerical, and temporal data types.
+
+## 4. Calculated Fields
+
+Calculated fields were created in Tableau to support:
+
+* Percentage of total value
+* Growth rate
+* Commodity ranking
+* Radial chart coordinates
+* Other chart-specific calculations
+
+## 5. Visualisation
+
+Ten charts were created using Tableau. Standard charts were combined with advanced idioms such as treemaps, scatter plots, heatmaps, bump charts, and radial charts.
+
+## 6. Dashboard Design
+
+The charts were arranged into a single dashboard using containers. KPI cards were placed at the top, followed by production and sector comparisons, commodity analysis, and advanced visualisations.
+
+## 7. Interactivity
+
+Filters were added to allow users to explore the dashboard by financial year, commodity, sector, and jurisdiction where applicable.
+
+## 8. Evaluation
+
+The dashboard was reviewed for readability, consistency, visual hierarchy, and whether the charts effectively communicated the main trends in the Australian seafood industry.
