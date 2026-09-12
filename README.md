@@ -206,8 +206,6 @@ australian-seafood-industry-visualisation/
 ├── README.md
 ├── dashboard/
 ├── data/
-│   ├── raw/
-│   └── processed/
 ├── screenshots/
 └── documentation/
 ```
