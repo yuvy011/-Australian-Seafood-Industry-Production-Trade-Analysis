@@ -1,5 +1,4 @@
-# -Australian-Seafood-Industry-Production-Trade-Analysis
-# Australian Seafood Industry Visualisation
+# 🐟 Australian Seafood Industry Production Trade Analysis
 
 An interactive Tableau dashboard exploring Australia's seafood industry through production trends, aquaculture and wild-catch comparisons, seafood commodity values, and long-term industry changes.
 
