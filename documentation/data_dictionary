@@ -1,0 +1,34 @@
+# Data Dictionary
+
+## Commodity Value by Year
+
+| Field          | Description                       | Data Type     |
+| -------------- | --------------------------------- | ------------- |
+| Commodity      | Name of the seafood commodity     | Categorical   |
+| Financial Year | Financial year of the observation | Date / String |
+| Value          | Industry value for the commodity  | Numerical     |
+
+## Value by Jurisdiction and Sector
+
+| Field          | Description                                  | Data Type     |
+| -------------- | -------------------------------------------- | ------------- |
+| Jurisdiction   | Australian state, territory, or Commonwealth | Categorical   |
+| Category       | Seafood category                             | Categorical   |
+| Year           | Year of the observation                      | Numerical     |
+| Value          | Industry value                               | Numerical     |
+| Financial Year | Financial year                               | Date / String |
+| Sector         | Aquaculture or wild catch                    | Categorical   |
+
+## Fisheries Production by Country
+
+| Field                    | Description                                   | Data Type   |
+| ------------------------ | --------------------------------------------- | ----------- |
+| Country                  | Country associated with the production record | Categorical |
+| Year                     | Year of production                            | Numerical   |
+| Production (metric tons) | Seafood production volume                     | Numerical   |
+
+## GVP FRDC Dataset
+
+This dataset contains additional fisheries and aquaculture industry information, including jurisdiction, sector, category, and value fields.
+
+The exact fields used in the dashboard are documented in the Tableau workbook and the project methodology.
